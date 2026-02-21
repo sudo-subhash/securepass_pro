@@ -42,6 +42,8 @@ Exception handling
 
 📦 Installation
 
-git clone https://github.com/YOUR_USERNAME/SecurePass-Pro.git
+git clone https://github.com/sudo-subhash/securepass_pro
 cd SecurePass-Pro
-pip install -r requirements.txt
+### 
+Uses
+python3 SecurePass-Pro.py
