@@ -1,8 +1,8 @@
 # Strong_Password_Generator
 
-🔐 SecurePass Pro – Advanced Password Security Analyzer
+🔐 Password_Checker.py – Advanced Password Security Analyzer
 
-SecurePass Pro is a professional-grade password security assessment tool written in Python.
+Password_Checker.py is a professional-grade password security assessment tool written in Python.
 It evaluates password strength using entropy analysis, pattern detection, and complexity scoring.
 It also integrates the Have I Been Pwned API using the k-anonymity model to detect breached passwords securely.
 
@@ -46,7 +46,7 @@ git clone https://github.com/sudo-subhash/securepass_pro
 cd SecurePass-Pro
 ### 
 Uses
-python3 SecurePass-Pro.py
+python3 Password_Checker.py
 #### 
  SecurePass Pro - Advanced Password Analyzer
 
