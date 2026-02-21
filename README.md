@@ -47,3 +47,12 @@ cd SecurePass-Pro
 ### 
 Uses
 python3 SecurePass-Pro.py
+#### 
+ SecurePass Pro - Advanced Password Analyzer
+
+
+1. Analyze Password
+2. Generate Secure Password
+3. Exit
+Select option: 
+
